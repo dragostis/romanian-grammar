@@ -16,7 +16,7 @@ of inflection just like in the case of adjectives.
 
 Relative superlative requires the use of the demostrative pronoun
 `cel` which has 4 forms that differ by gender and number. The
-pronoun has to agree with noun that the adjective describes.
+pronoun has to agree with the noun that the adjective describes.
 
 | Number   | Masculine | Feminine |
 |----------|-----------|----------|
