@@ -1,7 +1,7 @@
 ### Degrees of comparison
 
 Unlike English, Romanian has only one way of comparing adjectives,
-and it involes no irrgulars. It does, however, invole some degree
+and it involes no irregulars. It does, however, invole some degree
 of inflection just like in the case of adjectives.
 
 #### Comparative
